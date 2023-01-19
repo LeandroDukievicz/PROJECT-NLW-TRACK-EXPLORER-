@@ -16,4 +16,6 @@
 ### Projeto Desenvolvido no treinamento da Rocketseat, no primeiro evento do ano, na data de 16 à 20 Janeiro de 2023, projeto direcionado para web, usando html css e js, para criar um habits tracker, onde poderemos adicionar atividades do dia-a-dia.
 
 
-<img  align="center" height="700em" src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/wallpappers/Wallpaper%20-%201400x900.png" />
+
+<div align="center">
+<img  align="center" height="500em" src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/wallpappers/habbits.png" />
