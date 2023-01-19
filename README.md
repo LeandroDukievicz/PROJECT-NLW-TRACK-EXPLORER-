@@ -8,12 +8,12 @@
 
 ## Project developed by rocketseat, in the first challenge of the year 2023, NLW Setup<br><br><br><br><br>
 
-## Pode Conferir o resultado final    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*_Aqui_*](https://nlwhabbits.vercel.app/)
+## You can check the final result    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*_Here_*](https://nlwhabbits.vercel.app/)
 
 
 
 
-### Projeto Desenvolvido no treinamento da Rocketseat, no primeiro evento do ano, na data de 16 à 20 Janeiro de 2023, projeto direcionado para web, usando html css e js, para criar um habits tracker, onde poderemos adicionar atividades do dia-a-dia.
+### Project Developed in Rocketseat training, in the first event of the year, from the 16th to the 20th of January 2023, project directed to the web, using html, css and js, to create a habits tracker, where we can add day-to-day activities .
 
 
 
