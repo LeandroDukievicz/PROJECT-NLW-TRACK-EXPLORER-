@@ -108,6 +108,19 @@ input:checked {
   border: 2px solid #a78bfa;
 }
 
+h4 {
+  color: #8b5cf6;
+
+  padding: 50px;
+  font-family: "Roboto Mono";
+}
+
+footer {
+  margin-top: 300px;
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 570px) {
   button div {
     display: none;
