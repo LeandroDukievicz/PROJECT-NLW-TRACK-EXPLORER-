@@ -1,12 +1,25 @@
 
+
+### Languages: 
+
+<div align="center">
+  <img align="left" width ="120em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="justify" width ="120em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="right" width ="120em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
+</div> 
+
+#
+
+
 <img align="left" height = "150em" src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/wallpappers/sdsd.png" />
 
 
 #
 
 
-
 ## Project developed by rocketseat, in the first challenge of the year 2023, NLW Setup<br><br><br><br><br>
+
+
 
 ## You can check the final result    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [*_Here_*](https://nlwhabbits.vercel.app/)
 
