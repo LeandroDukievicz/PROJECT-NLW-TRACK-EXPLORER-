@@ -10,9 +10,9 @@
 
 #
 
-
-<img align="left" height = "150em" src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/wallpappers/sdsd.png" />
-
+<div align="center">
+  <img  height = "150em" src="https://github.com/LeandroDukievicz/PROJECT-NLW-TRACK-EXPLORER-/blob/main/wallpappers/sdsd.png" />
+</div>
 
 #
 
